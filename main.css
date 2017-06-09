@@ -1,3 +1,9 @@
 body {
   background-color: blue;
 }
+
+.theMessage {
+  height: 5em;
+  width: 10em;
+  background-color: white;
+}
